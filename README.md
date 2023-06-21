@@ -3,6 +3,21 @@ This repository contains the implementation of the case study presented in the p
 
 Authors: Joachim Baumann & Michele Loi
 
+## Setup
+
+Cloning repo:
+```
+```
+
+Installing requirements:
+```
+pyenv virtualenv 3.8 fair-insurance-premiums
+pyenv activate fair-insurance-premiums
+pip install -r requirements.txt
+```
+
+Python version used: `3.8`
+
 ## Citation
 ```
 @Article{Baumann2023,
