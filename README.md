@@ -7,9 +7,11 @@ Authors: Joachim Baumann & Michele Loi
 
 Cloning repo:
 ```
+git@github.com:joebaumann/fair-insurance-premiums.git
+cd fair-insurance-premiums
 ```
 
-Installing requirements:
+Installing python requirements:
 ```
 pyenv virtualenv 3.8 fair-insurance-premiums
 pyenv activate fair-insurance-premiums
