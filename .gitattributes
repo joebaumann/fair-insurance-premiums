@@ -1,5 +1,0 @@
-Data/freMTPL2freq.csv filter=lfs diff=lfs merge=lfs -text
-Data/my_predictions_aware.json filter=lfs diff=lfs merge=lfs -text
-Data/my_predictions_blind.json filter=lfs diff=lfs merge=lfs -text
-Data/freMTPL2freq_preprocessed_train.csv filter=lfs diff=lfs merge=lfs -text
-Data/freMTPL2freq_preprocessed_test.csv filter=lfs diff=lfs merge=lfs -text
