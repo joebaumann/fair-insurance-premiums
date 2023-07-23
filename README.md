@@ -7,7 +7,7 @@ Authors: Joachim Baumann & Michele Loi
 
 Cloning repo:
 ```
-git@github.com:joebaumann/fair-insurance-premiums.git
+git clone git@github.com:joebaumann/fair-insurance-premiums.git
 cd fair-insurance-premiums
 ```
 
