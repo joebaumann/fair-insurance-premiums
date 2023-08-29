@@ -1,5 +1,5 @@
 # Fair insurance premiums
-This repository contains the implementation of the case study presented in the paper "**Fairness and Risk: An Ethical Argument for a Group Fairness Definition Insurers Can Use**".
+This repository contains the implementation of the case study presented in the paper **[Fairness and Risk: An Ethical Argument for a Group Fairness Definition Insurers Can Use](https://link.springer.com/10.1007/s13347-023-00624-9)**.
 
 Authors: Joachim Baumann & Michele Loi
 
